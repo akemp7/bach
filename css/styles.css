@@ -7,6 +7,7 @@ img {
   display: block;
   width:20%;
   float:right;
+  padding:8px;
 }
 
 .sidebar{
@@ -14,6 +15,8 @@ img {
   width:10%;
   margin: 12px;
   background-color: #930077;
+  padding: 8px;
+  border: 2px solid yellow;
 }
 
 .columns{
