@@ -1,0 +1,23 @@
+body {
+  background-color: #090088;
+  color: white;
+}
+
+img {
+  display: block;
+  width:20%;
+  float:right;
+}
+
+.sidebar{
+  float: left;
+  width:10%;
+  margin: 12px;
+  background-color: #930077;
+}
+
+.columns{
+  float: left;
+  width:20%;
+  background-color: #e4007c;
+}
